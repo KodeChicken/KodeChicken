@@ -52,6 +52,7 @@ KodeChicken
 
 ## Maintain
 ![info](https://github-readme-stats.vercel.app/api?username=KodeChicken&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![](https://github-readme-stats.vercel.app/api?username=KodeChicken&show_icons=true&theme=tokyonight)
 
 Here are some ideas to get you started:
 
