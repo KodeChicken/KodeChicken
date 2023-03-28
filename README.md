@@ -12,13 +12,6 @@ KodeChicken
 
 <!-- --- -->
 
-<!-- ![](https://komarev.com/ghpvc/?username=LiLittleCat&color=brightgreen&style=for-the-badge) ![](https://hit.yhype.me/github/profile?user_id=40536573) -->
-
-<p align="center">
-<a href="https://github.com/LiLittleCat"><img src="https://img.shields.io/badge/Always%20Be-Coding-blue?style=for-the-badge"/></a>
-  <a href="https://github.com/LiLittleCat"><img src="https://komarev.com/ghpvc/?username=LiLittleCat&color=brightgreen&style=for-the-badge"/></a>
-</p>
-
 
 <!-- --- -->
 ---
@@ -58,7 +51,7 @@ KodeChicken
 # Projects
 
 ## Maintain
-![](https://github-readme-stats.vercel.app/api?username=KodeChicken&theme=dark)
+![info](https://github-readme-stats.vercel.app/api?username=KodeChicken&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 Here are some ideas to get you started:
 
