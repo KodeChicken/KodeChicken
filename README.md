@@ -58,7 +58,7 @@ KodeChicken
 # Projects
 
 ## Maintain
-![](https://github-readme-stats.vercel.app/api?username=KodeChicken&theme=green)
+![](https://github-readme-stats.vercel.app/api?username=KodeChicken&theme=dark)
 
 Here are some ideas to get you started:
 
